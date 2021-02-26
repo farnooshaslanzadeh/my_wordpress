@@ -1,10 +1,10 @@
 # Deploy Wordpress with docker-compose
-#Create a directory
+# Create a directory
 ```mkdir my_wordpress```
-#Open your directory
+# Open your directory
 ```cd my_wordpress```
-#Create a dockerfile
+# Create a dockerfile
 ```docker-compose.yml```
-#Add your content
+# Add your content
 ```docker-compose up -d```
-#Go to your web browser
+# Go to your web browser
